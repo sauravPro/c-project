@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1514752801 source:d:\web programs\capitalizedemo\main.c
-	<stdio.h>
-	<stdlib.h>
-	<malloc.h>
-	<stdbool.h>
-
